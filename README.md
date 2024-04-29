@@ -86,6 +86,8 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ![image](https://github.com/Neethiventhan123/Calc/assets/148514848/99ce0215-64b5-4f98-b453-96b9367f1789)
+![image](https://github.com/Neethiventhan123/Calc/assets/148514848/d3700587-bc73-40cb-a246-d03936c62742)
+
 
 
 ## RESULT:
